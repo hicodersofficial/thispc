@@ -1,0 +1,43 @@
+{
+  "name": "thispc",
+  "displayName": "This PC",
+  "version": "1.0.0",
+  "description": "This PC is npm package that allow you to view your system specs & stats. such as CPUs, total memory, username, etc.",
+  "main": "index.js",
+  "bin": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "homepage": "https://github.com/hicodersofficial/this-pc",
+  "repository": {
+    "url": "https://github.com/hicodersofficial/this-pc",
+    "type": "git"
+  },
+  "bugs": {
+    "email": "hicodersofficial@gmail.com",
+    "url": "https://github.com/hicodersofficial/this-pc/issues"
+  },
+  "keywords": [
+    "this-pc",
+    "This PC",
+    "specs",
+    "system info"
+  ],
+  "author": {
+    "name": "HiCoders",
+    "email": "hicodersofficial@gmail.com",
+    "url": "https://github.com/hicodersofficial"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "moment-timezone": "^0.5.33"
+  }
+}
