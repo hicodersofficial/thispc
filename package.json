@@ -11,7 +11,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "homepage": "https://github.com/hicodersofficial/this-pc",
+  "homepage": "https://github.com/hicodersofficial/thispc#readme",
   "repository": {
     "url": "https://github.com/hicodersofficial/this-pc",
     "type": "git"
