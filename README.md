@@ -11,7 +11,7 @@ $ npm install -g thispc
 OR
 
 ```
-$ yarn add -g thispc
+$ npx thispc
 ```
 
 ## **Helps**
