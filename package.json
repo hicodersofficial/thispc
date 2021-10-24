@@ -1,7 +1,7 @@
 {
   "name": "thispc",
   "displayName": "This PC",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This PC is npm package that allow you to view your system specs & stats. such as CPUs, total memory, username, etc.",
   "main": "index.js",
   "bin": "index.js",
