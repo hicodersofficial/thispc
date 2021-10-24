@@ -24,7 +24,7 @@ $ thispc --help
 Usage: index [options]
 
 Options:
-  -V, --version       output the version number
+  -v, --version       output the version number
   -cu, --cpu-usages   Show cpu uses of the system.
   -s,  --specs        Shows system specification.
   -ui, --user-info    Shows user information.
